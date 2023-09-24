@@ -10,6 +10,6 @@ eyeShow.onclick = function(){
     } else {
         pass.type = "password";
         eyeShow.setAttribute("class", "fa-solid fa-eye");
-        eyeShow.setAttribute("style", "color: #ffffff");
+        eyeShow.setAttribute("style", "color: #fff");
     }
 };
